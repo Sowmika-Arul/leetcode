@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sowmika-Arul/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2755-extra-characters-in-a-string](https://github.com/Sowmika-Arul/leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sowmika-Arul/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## String
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Sowmika-Arul/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sowmika-Arul/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2755-extra-characters-in-a-string](https://github.com/Sowmika-Arul/leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sowmika-Arul/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Counting
 |  |
 | ------- |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Sowmika-Arul/leetcode/tree/master/0042-trapping-rain-water) |
 | [0179-largest-number](https://github.com/Sowmika-Arul/leetcode/tree/master/0179-largest-number) |
 | [2755-extra-characters-in-a-string](https://github.com/Sowmika-Arul/leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sowmika-Arul/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/Sowmika-Arul/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Sowmika-Arul/leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2755-extra-characters-in-a-string](https://github.com/Sowmika-Arul/leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sowmika-Arul/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Linked List
 |  |
 | ------- |
