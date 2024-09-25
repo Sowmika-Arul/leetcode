@@ -7,9 +7,5 @@ class Solution {
            s[len-1-i] = s[i];
            s[i] = temp;
         }
-        for(char c : s)
-        {
-            System.out.print(c);
-        }
     }
 }
