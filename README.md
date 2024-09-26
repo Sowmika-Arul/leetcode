@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sowmika-Arul/leetcode/tree/master/0001-two-sum) |
 | [0290-word-pattern](https://github.com/Sowmika-Arul/leetcode/tree/master/0290-word-pattern) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sowmika-Arul/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2755-extra-characters-in-a-string](https://github.com/Sowmika-Arul/leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sowmika-Arul/leetcode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Sowmika-Arul/leetcode/tree/master/0042-trapping-rain-water) |
 | [0179-largest-number](https://github.com/Sowmika-Arul/leetcode/tree/master/0179-largest-number) |
 | [0729-my-calendar-i](https://github.com/Sowmika-Arul/leetcode/tree/master/0729-my-calendar-i) |
