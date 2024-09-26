@@ -9,13 +9,11 @@ class Solution {
             {
                 if(nums[i]+nums[j]==target)
                 {
-                   ne[0] = i;
-                   ne[1] = j;
-                   break;
+                  return new int[]{i,j};
                 }
             }
         }
-        return ne;
+        return null;
         
     }
 }
