@@ -1,16 +1,14 @@
 class Solution {
-    public int firstUniqChar(String s) {
-        char [] str = s.toCharArray();
-      for(int i = 0; i < str.length; i++)
-      {
-        for(int j = 0; j < str.length; j++)
+     public int firstUniqChar(String s) {
+       int ans = Integer.MAX_VALUE;
+       for(char an = 'a'; an <= 'z'; an++)
+       {
+        int index = s.indexOf(an);
+        if(index != -1 && index == s.lastIndexOf(an))
         {
-            if(i!=j && str[i] == str[j])
-            break;
-            if(j == str.length-1)
-            return i;
+            ans = Math.min(ans,index);
         }
-      }
-      return -1;
-    }
+       }
+       return ans==Integer.MAX_VALUE ? -1 : ans;
+    }   
 }
