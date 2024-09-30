@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sowmika-Arul/leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Sowmika-Arul/leetcode/tree/master/0041-first-missing-positive) |
 | [0290-word-pattern](https://github.com/Sowmika-Arul/leetcode/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sowmika-Arul/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0432-all-oone-data-structure](https://github.com/Sowmika-Arul/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sowmika-Arul/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2755-extra-characters-in-a-string](https://github.com/Sowmika-Arul/leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Sowmika-Arul/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0290-word-pattern](https://github.com/Sowmika-Arul/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Sowmika-Arul/leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sowmika-Arul/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sowmika-Arul/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Sowmika-Arul/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Sowmika-Arul/leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Sowmika-Arul/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sowmika-Arul/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Sowmika-Arul/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Array
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Sowmika-Arul/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0859-design-circular-deque](https://github.com/Sowmika-Arul/leetcode/tree/master/0859-design-circular-deque) |
 ## Doubly-Linked List
 |  |
