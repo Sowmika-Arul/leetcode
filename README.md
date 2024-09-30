@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Sowmika-Arul/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Sowmika-Arul/leetcode/tree/master/0042-trapping-rain-water) |
 | [0179-largest-number](https://github.com/Sowmika-Arul/leetcode/tree/master/0179-largest-number) |
+| [0287-find-the-duplicate-number](https://github.com/Sowmika-Arul/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0729-my-calendar-i](https://github.com/Sowmika-Arul/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Sowmika-Arul/leetcode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Sowmika-Arul/leetcode/tree/master/0859-design-circular-deque) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sowmika-Arul/leetcode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Sowmika-Arul/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Sowmika-Arul/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Sowmika-Arul/leetcode/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Sowmika-Arul/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Sowmika-Arul/leetcode/tree/master/0941-sort-array-by-parity) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Sowmika-Arul/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0729-my-calendar-i](https://github.com/Sowmika-Arul/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Sowmika-Arul/leetcode/tree/master/0731-my-calendar-ii) |
 ## Design
@@ -151,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Sowmika-Arul/leetcode/tree/master/0432-all-oone-data-structure) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Sowmika-Arul/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
