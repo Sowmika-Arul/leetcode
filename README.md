@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Sowmika-Arul/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Sowmika-Arul/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sowmika-Arul/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0443-string-compression](https://github.com/Sowmika-Arul/leetcode/tree/master/0443-string-compression) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sowmika-Arul/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sowmika-Arul/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Sowmika-Arul/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Sowmika-Arul/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Sowmika-Arul/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Sowmika-Arul/leetcode/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/Sowmika-Arul/leetcode/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/Sowmika-Arul/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Sowmika-Arul/leetcode/tree/master/0941-sort-array-by-parity) |
 ## Dynamic Programming
