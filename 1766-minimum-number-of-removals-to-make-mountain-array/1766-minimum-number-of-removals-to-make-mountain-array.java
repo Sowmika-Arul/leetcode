@@ -1,37 +1,28 @@
 class Solution {
     public int minimumMountainRemovals(int[] nums) {
-        int n = nums.length;
-        int[] LIS = new int[n], LDS = new int[n];
-        Arrays.fill(LIS, 1);
-        Arrays.fill(LDS, 1);
-
-        // Compute LIS for each index
-        for (int i = 0; i < n; ++i) {
-            for (int j = 0; j < i; ++j) {
-                if (nums[i] > nums[j]) {
-                    LIS[i] = Math.max(LIS[i], LIS[j] + 1);
-                }
+        int[] increase = new int[nums.length];
+        int[] decrease = new int[nums.length];
+        Arrays.fill(increase,1);
+        Arrays.fill(decrease,1);
+        for(int i=1;i<nums.length;i++){
+            for(int j=0;j<i;j++){
+                if(nums[j]<nums[i])
+                increase[i] = Math.max(increase[i],increase[j]+1);
             }
         }
-
-        // Compute LDS from each index
-        for (int i = n - 1; i >= 0; --i) {
-            for (int j = n - 1; j > i; --j) {
-                if (nums[i] > nums[j]) {
-                    LDS[i] = Math.max(LDS[i], LDS[j] + 1);
-                }
+        for(int i=nums.length-2;i>=0;i--){
+            for(int j=nums.length-1;j>i;j--){
+                if(nums[j]<nums[i])
+                decrease[i] = Math.max(decrease[i],decrease[j]+1);
             }
         }
-
-        int maxMountainLength = 0;
-
-        // Find the maximum mountain length
-        for (int i = 1; i < n - 1; ++i) {
-            if (LIS[i] > 1 && LDS[i] > 1) {  // Valid peak
-                maxMountainLength = Math.max(maxMountainLength, LIS[i] + LDS[i] - 1);
-            }
+        //  System.out.println(Arrays.toString(increase));
+        //  System.out.println(Arrays.toString(decrease));
+        int answer=0;
+        for(int i=1;i<nums.length-1;i++){
+            if(increase[i]!=1 && decrease[i]!=1)
+            answer = Math.max(answer,increase[i]+decrease[i]-1);
         }
-
-        return n - maxMountainLength;
+        return nums.length-answer;
     }
 }
