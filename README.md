@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sowmika-Arul/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sowmika-Arul/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Sowmika-Arul/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sowmika-Arul/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
 |  |
 | ------- |
