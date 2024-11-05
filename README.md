@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sowmika-Arul/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sowmika-Arul/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Sowmika-Arul/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Sowmika-Arul/leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2755-extra-characters-in-a-string](https://github.com/Sowmika-Arul/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Sowmika-Arul/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sowmika-Arul/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sowmika-Arul/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Sowmika-Arul/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Sowmika-Arul/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Sowmika-Arul/leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sowmika-Arul/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Array
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/Sowmika-Arul/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Sowmika-Arul/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Sowmika-Arul/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Sowmika-Arul/leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2755-extra-characters-in-a-string](https://github.com/Sowmika-Arul/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sowmika-Arul/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sowmika-Arul/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
