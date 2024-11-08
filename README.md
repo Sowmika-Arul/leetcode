@@ -229,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2722-prime-in-diagonal](https://github.com/Sowmika-Arul/leetcode/tree/master/2722-prime-in-diagonal) |
+## Database
+|  |
+| ------- |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Sowmika-Arul/leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
