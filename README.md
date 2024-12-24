@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0185-department-top-three-salaries](https://github.com/Sowmika-Arul/leetcode/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/Sowmika-Arul/leetcode/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/Sowmika-Arul/leetcode/tree/master/0577-employee-bonus) |
 | [1153-product-sales-analysis-i](https://github.com/Sowmika-Arul/leetcode/tree/master/1153-product-sales-analysis-i) |
