@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sowmika-Arul/leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sowmika-Arul/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Sowmika-Arul/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Sowmika-Arul/leetcode/tree/master/0049-group-anagrams) |
 | [0290-word-pattern](https://github.com/Sowmika-Arul/leetcode/tree/master/0290-word-pattern) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sowmika-Arul/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Sowmika-Arul/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Sowmika-Arul/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Sowmika-Arul/leetcode/tree/master/0049-group-anagrams) |
@@ -261,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Sowmika-Arul/leetcode/tree/master/0494-target-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sowmika-Arul/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
