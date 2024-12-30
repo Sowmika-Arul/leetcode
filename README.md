@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Sowmika-Arul/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Sowmika-Arul/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Sowmika-Arul/leetcode/tree/master/0075-sort-colors) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sowmika-Arul/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/Sowmika-Arul/leetcode/tree/master/0179-largest-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sowmika-Arul/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0406-queue-reconstruction-by-height](https://github.com/Sowmika-Arul/leetcode/tree/master/0406-queue-reconstruction-by-height) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sowmika-Arul/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Sowmika-Arul/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0729-my-calendar-i](https://github.com/Sowmika-Arul/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Sowmika-Arul/leetcode/tree/master/0731-my-calendar-ii) |
