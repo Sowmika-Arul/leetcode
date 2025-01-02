@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Sowmika-Arul/leetcode/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sowmika-Arul/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/Sowmika-Arul/leetcode/tree/master/0179-largest-number) |
+| [0216-combination-sum-iii](https://github.com/Sowmika-Arul/leetcode/tree/master/0216-combination-sum-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Sowmika-Arul/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0406-queue-reconstruction-by-height](https://github.com/Sowmika-Arul/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sowmika-Arul/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0216-combination-sum-iii](https://github.com/Sowmika-Arul/leetcode/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/Sowmika-Arul/leetcode/tree/master/0494-target-sum) |
 ## Sliding Window
 |  |
