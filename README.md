@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sowmika-Arul/leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sowmika-Arul/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/Sowmika-Arul/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Sowmika-Arul/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Sowmika-Arul/leetcode/tree/master/0049-group-anagrams) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sowmika-Arul/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sowmika-Arul/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Sowmika-Arul/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0729-my-calendar-i](https://github.com/Sowmika-Arul/leetcode/tree/master/0729-my-calendar-i) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sowmika-Arul/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Sowmika-Arul/leetcode/tree/master/0023-merge-k-sorted-lists) |
 ## Heap (Priority Queue)
 |  |
