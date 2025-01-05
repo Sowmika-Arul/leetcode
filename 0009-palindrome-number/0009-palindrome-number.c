@@ -1,27 +1,10 @@
 bool isPalindrome(int x){
-    long int rev=0;
-    int pal=x,i=0,rem;
-if(x<0)
-{
-    return false;
-}
-else
-{
-    while(pal!=0)
-    {
-        rem=pal%10;
-        if(rem==0&&i==0)
-        {
-          return false;
-        }
-        rev=(rev*10)+rem;
-        pal=pal/10;
-        i++;
-    }
-    if(rev==x)
-    {
-        return true;
-    }
-}
- return 0;
+   if(x < 0 || x!=0 && x%10 == 0) return false;
+   int check = 0;
+   while(x > check)
+   {
+    check = check*10 + x%10;
+    x = x/10;
+   }
+   return (x == check || x == check/10);
 }
