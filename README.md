@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Sowmika-Arul/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sowmika-Arul/leetcode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Sowmika-Arul/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/Sowmika-Arul/leetcode/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sowmika-Arul/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/Sowmika-Arul/leetcode/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/Sowmika-Arul/leetcode/tree/master/0200-number-of-islands) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sowmika-Arul/leetcode/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/Sowmika-Arul/leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Sowmika-Arul/leetcode/tree/master/0179-largest-number) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sowmika-Arul/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Sowmika-Arul/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
