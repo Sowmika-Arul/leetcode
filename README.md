@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Sowmika-Arul/leetcode/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/Sowmika-Arul/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Sowmika-Arul/leetcode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Sowmika-Arul/leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Sowmika-Arul/leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Sowmika-Arul/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Sowmika-Arul/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Sowmika-Arul/leetcode/tree/master/0046-permutations) |
 | [0216-combination-sum-iii](https://github.com/Sowmika-Arul/leetcode/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/Sowmika-Arul/leetcode/tree/master/0494-target-sum) |
 ## Sliding Window
