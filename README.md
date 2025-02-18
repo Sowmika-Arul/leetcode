@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Sowmika-Arul/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Sowmika-Arul/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Sowmika-Arul/leetcode/tree/master/0049-group-anagrams) |
+| [0065-valid-number](https://github.com/Sowmika-Arul/leetcode/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/Sowmika-Arul/leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Sowmika-Arul/leetcode/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/Sowmika-Arul/leetcode/tree/master/0179-largest-number) |
