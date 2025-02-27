@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Sowmika-Arul/leetcode/tree/master/0046-permutations) |
+| [0052-n-queens-ii](https://github.com/Sowmika-Arul/leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Sowmika-Arul/leetcode/tree/master/0077-combinations) |
 | [0216-combination-sum-iii](https://github.com/Sowmika-Arul/leetcode/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/Sowmika-Arul/leetcode/tree/master/0494-target-sum) |
