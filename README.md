@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Sowmika-Arul/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Sowmika-Arul/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Sowmika-Arul/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1829-maximum-units-on-a-truck](https://github.com/Sowmika-Arul/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2089-maximum-matrix-sum](https://github.com/Sowmika-Arul/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2358-number-of-ways-to-split-array](https://github.com/Sowmika-Arul/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2478-longest-nice-subarray](https://github.com/Sowmika-Arul/leetcode/tree/master/2478-longest-nice-subarray) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-break-a-palindrome](https://github.com/Sowmika-Arul/leetcode/tree/master/1252-break-a-palindrome) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Sowmika-Arul/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Sowmika-Arul/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1829-maximum-units-on-a-truck](https://github.com/Sowmika-Arul/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2089-maximum-matrix-sum](https://github.com/Sowmika-Arul/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sowmika-Arul/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Sowmika-Arul/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1256-rank-transform-of-an-array](https://github.com/Sowmika-Arul/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Sowmika-Arul/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1829-maximum-units-on-a-truck](https://github.com/Sowmika-Arul/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Sowmika-Arul/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sowmika-Arul/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Math
