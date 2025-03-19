@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Sowmika-Arul/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sowmika-Arul/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/Sowmika-Arul/leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Sowmika-Arul/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Sowmika-Arul/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Sowmika-Arul/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sowmika-Arul/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Sowmika-Arul/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Sowmika-Arul/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sowmika-Arul/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Sowmika-Arul/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Sowmika-Arul/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Sowmika-Arul/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Sowmika-Arul/leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Sowmika-Arul/leetcode/tree/master/1036-rotting-oranges) |
 | [1256-rank-transform-of-an-array](https://github.com/Sowmika-Arul/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Sowmika-Arul/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Sowmika-Arul/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Sowmika-Arul/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Sowmika-Arul/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2089-maximum-matrix-sum](https://github.com/Sowmika-Arul/leetcode/tree/master/2089-maximum-matrix-sum) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Sowmika-Arul/leetcode/tree/master/0179-largest-number) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sowmika-Arul/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1252-break-a-palindrome](https://github.com/Sowmika-Arul/leetcode/tree/master/1252-break-a-palindrome) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Sowmika-Arul/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Sowmika-Arul/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2089-maximum-matrix-sum](https://github.com/Sowmika-Arul/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sowmika-Arul/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -192,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Sowmika-Arul/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0941-sort-array-by-parity](https://github.com/Sowmika-Arul/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1256-rank-transform-of-an-array](https://github.com/Sowmika-Arul/leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Sowmika-Arul/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Sowmika-Arul/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sowmika-Arul/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Math
