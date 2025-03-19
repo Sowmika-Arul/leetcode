@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Sowmika-Arul/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2089-maximum-matrix-sum](https://github.com/Sowmika-Arul/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2358-number-of-ways-to-split-array](https://github.com/Sowmika-Arul/leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2478-longest-nice-subarray](https://github.com/Sowmika-Arul/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Sowmika-Arul/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Sowmika-Arul/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sowmika-Arul/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Sowmika-Arul/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Sowmika-Arul/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sowmika-Arul/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2478-longest-nice-subarray](https://github.com/Sowmika-Arul/leetcode/tree/master/2478-longest-nice-subarray) |
 ## Simulation
 |  |
 | ------- |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sowmika-Arul/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Sowmika-Arul/leetcode/tree/master/0076-minimum-window-substring) |
 | [0713-subarray-product-less-than-k](https://github.com/Sowmika-Arul/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [2478-longest-nice-subarray](https://github.com/Sowmika-Arul/leetcode/tree/master/2478-longest-nice-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
