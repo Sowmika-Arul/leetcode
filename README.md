@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sowmika-Arul/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sowmika-Arul/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Sowmika-Arul/leetcode/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/Sowmika-Arul/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Sowmika-Arul/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Sowmika-Arul/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Sowmika-Arul/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sowmika-Arul/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sowmika-Arul/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Sowmika-Arul/leetcode/tree/master/0011-container-with-most-water) |
+| [0037-sudoku-solver](https://github.com/Sowmika-Arul/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Sowmika-Arul/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Sowmika-Arul/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Sowmika-Arul/leetcode/tree/master/0046-permutations) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Sowmika-Arul/leetcode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Sowmika-Arul/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Sowmika-Arul/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Sowmika-Arul/leetcode/tree/master/0200-number-of-islands) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Sowmika-Arul/leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Sowmika-Arul/leetcode/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/Sowmika-Arul/leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Sowmika-Arul/leetcode/tree/master/0077-combinations) |
