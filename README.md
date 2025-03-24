@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Sowmika-Arul/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sowmika-Arul/leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Sowmika-Arul/leetcode/tree/master/0044-wildcard-matching) |
+| [0062-unique-paths](https://github.com/Sowmika-Arul/leetcode/tree/master/0062-unique-paths) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sowmika-Arul/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0494-target-sum](https://github.com/Sowmika-Arul/leetcode/tree/master/0494-target-sum) |
 | [1250-longest-common-subsequence](https://github.com/Sowmika-Arul/leetcode/tree/master/1250-longest-common-subsequence) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Sowmika-Arul/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Sowmika-Arul/leetcode/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/Sowmika-Arul/leetcode/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/Sowmika-Arul/leetcode/tree/master/0062-unique-paths) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sowmika-Arul/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sowmika-Arul/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2722-prime-in-diagonal](https://github.com/Sowmika-Arul/leetcode/tree/master/2722-prime-in-diagonal) |
@@ -424,4 +426,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Sowmika-Arul/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Sowmika-Arul/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
