@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Sowmika-Arul/leetcode/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/Sowmika-Arul/leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Sowmika-Arul/leetcode/tree/master/0217-contains-duplicate) |
+| [0274-h-index](https://github.com/Sowmika-Arul/leetcode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/Sowmika-Arul/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0406-queue-reconstruction-by-height](https://github.com/Sowmika-Arul/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sowmika-Arul/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Sowmika-Arul/leetcode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Sowmika-Arul/leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Sowmika-Arul/leetcode/tree/master/0217-contains-duplicate) |
+| [0274-h-index](https://github.com/Sowmika-Arul/leetcode/tree/master/0274-h-index) |
 | [0406-queue-reconstruction-by-height](https://github.com/Sowmika-Arul/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0451-sort-characters-by-frequency](https://github.com/Sowmika-Arul/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0941-sort-array-by-parity](https://github.com/Sowmika-Arul/leetcode/tree/master/0941-sort-array-by-parity) |
@@ -444,4 +446,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sowmika-Arul/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Sowmika-Arul/leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
