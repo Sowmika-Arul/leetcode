@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/Sowmika-Arul/leetcode/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/Sowmika-Arul/leetcode/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/Sowmika-Arul/leetcode/tree/master/1153-product-sales-analysis-i) |
+| [1161-project-employees-i](https://github.com/Sowmika-Arul/leetcode/tree/master/1161-project-employees-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/Sowmika-Arul/leetcode/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/Sowmika-Arul/leetcode/tree/master/1317-monthly-transactions-i) |
 | [1390-average-selling-price](https://github.com/Sowmika-Arul/leetcode/tree/master/1390-average-selling-price) |
