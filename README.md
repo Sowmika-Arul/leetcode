@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sowmika-Arul/leetcode/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/Sowmika-Arul/leetcode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/Sowmika-Arul/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/Sowmika-Arul/leetcode/tree/master/0322-coin-change) |
 | [0406-queue-reconstruction-by-height](https://github.com/Sowmika-Arul/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sowmika-Arul/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0494-target-sum](https://github.com/Sowmika-Arul/leetcode/tree/master/0494-target-sum) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Sowmika-Arul/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Sowmika-Arul/leetcode/tree/master/0062-unique-paths) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sowmika-Arul/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0322-coin-change](https://github.com/Sowmika-Arul/leetcode/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Sowmika-Arul/leetcode/tree/master/0494-target-sum) |
 | [1250-longest-common-subsequence](https://github.com/Sowmika-Arul/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Sowmika-Arul/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Sowmika-Arul/leetcode/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/Sowmika-Arul/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Sowmika-Arul/leetcode/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/Sowmika-Arul/leetcode/tree/master/0322-coin-change) |
 | [1036-rotting-oranges](https://github.com/Sowmika-Arul/leetcode/tree/master/1036-rotting-oranges) |
 ## Matrix
 |  |
