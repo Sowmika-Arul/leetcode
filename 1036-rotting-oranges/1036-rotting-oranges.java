@@ -1,48 +1,38 @@
 class Solution {
     public int orangesRotting(int[][] grid) {
-        int m = grid.length;
-        int n = grid[0].length;
-        int[][] visited = grid;
-        Queue<int[]> q = new LinkedList<>();
-        int countFreshOrange = 0;
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (visited[i][j] == 2) {
-                    q.offer(new int[] {i, j});
-                }
-                if (visited[i][j] == 1) {
-                    countFreshOrange++;
-                }
+        int minutes = 0;
+        boolean rotted;
+        Queue<int[]> queue = new LinkedList<>();
+        int fresh = 0;
+        for(int i = 0; i < grid.length; i++){
+            for(int j = 0; j < grid[0].length; j++){
+                if(grid[i][j] == 1) fresh++;
+                else if(grid[i][j] == 2) queue.offer(new int[]{i,j}); 
             }
         }
-        if (countFreshOrange == 0)
-            return 0;
-        if (q.isEmpty())
-            return -1;
-        
-        int minutes = -1;
-        int[][] dirs = {{1, 0},{-1, 0},{0, -1},{0, 1}};
-        while (!q.isEmpty()) {
-            int size = q.size();
-            while (size-- > 0) {
-                int[] cell = q.poll();
-                int x = cell[0];
-                int y = cell[1];
-                for (int[] dir : dirs) {
-                    int i = x + dir[0];
-                    int j = y + dir[1];
-                    if (i >= 0 && i < m && j >= 0 && j < n && visited[i][j] == 1) {
-                        visited[i][j] = 2;
-                        countFreshOrange--;
-                        q.offer(new int[] {i, j});
-                    }
-                }
+       
+       if(fresh == 0) return 0;
+       int[][] directions = {{-1,0},{0,1},{1,0},{0,-1}};
+        while(!queue.isEmpty()){
+             rotted = false;
+            int size = queue.size();
+          
+          for(int i = 0; i < size; i++){
+             int pos[] = queue.poll();
+            for(int[] direction : directions){
+                int ni = pos[0] + direction[0];
+                int nj = pos[1] + direction[1];
+            
+            if(ni >= 0 && ni < grid.length && nj >= 0 && nj < grid[0].length && grid[ni][nj] == 1){
+                grid[ni][nj] = 2;
+                fresh--;
+                queue.offer(new int[]{ni, nj});
+                rotted = true;
             }
-            minutes++;
+            }
+          }
+            if(rotted) minutes++;
         }
-        
-        if (countFreshOrange == 0)
-            return minutes;
-        return -1;
+        return fresh == 0 ? minutes : -1;
     }
 }
