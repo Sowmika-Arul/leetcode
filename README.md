@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/Sowmika-Arul/leetcode/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Sowmika-Arul/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Sowmika-Arul/leetcode/tree/master/0577-employee-bonus) |
+| [0585-investments-in-2016](https://github.com/Sowmika-Arul/leetcode/tree/master/0585-investments-in-2016) |
 | [0596-classes-with-at-least-5-students](https://github.com/Sowmika-Arul/leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Sowmika-Arul/leetcode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0610-triangle-judgement](https://github.com/Sowmika-Arul/leetcode/tree/master/0610-triangle-judgement) |
