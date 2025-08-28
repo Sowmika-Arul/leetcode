@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sowmika-Arul/leetcode/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/Sowmika-Arul/leetcode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/Sowmika-Arul/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/Sowmika-Arul/leetcode/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/Sowmika-Arul/leetcode/tree/master/0322-coin-change) |
 | [0406-queue-reconstruction-by-height](https://github.com/Sowmika-Arul/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sowmika-Arul/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sowmika-Arul/leetcode/tree/master/0054-spiral-matrix) |
+| [0289-game-of-life](https://github.com/Sowmika-Arul/leetcode/tree/master/0289-game-of-life) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Sowmika-Arul/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Breadth-First Search
 |  |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Sowmika-Arul/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Sowmika-Arul/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Sowmika-Arul/leetcode/tree/master/0200-number-of-islands) |
+| [0289-game-of-life](https://github.com/Sowmika-Arul/leetcode/tree/master/0289-game-of-life) |
 | [1036-rotting-oranges](https://github.com/Sowmika-Arul/leetcode/tree/master/1036-rotting-oranges) |
 | [2089-maximum-matrix-sum](https://github.com/Sowmika-Arul/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2722-prime-in-diagonal](https://github.com/Sowmika-Arul/leetcode/tree/master/2722-prime-in-diagonal) |
