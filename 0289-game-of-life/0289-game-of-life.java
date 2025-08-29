@@ -2,49 +2,34 @@ class Solution {
     public void gameOfLife(int[][] board) {
         int m = board.length;
         int n = board[0].length;
+        int liveNeighbors;
+        int[][] directions = {{0,1},{1,0},{-1,0},{0,-1},{1,1},{-1,-1}, {-1,1},{1,-1}};
+        for(int i = 0; i < m; i++){
+            for(int j = 0; j < n; j++){
 
-        // directions for 8 neighbors
-        int[][] dirs = {{-1, -1}, {-1, 0}, {-1, 1},
-                        {0, -1},           {0, 1},
-                        {1, -1}, {1, 0}, {1, 1}};
+              liveNeighbors = 0;
 
-        // Step 1: Apply rules with temporary markers
-        for (int r = 0; r < m; r++) {
-            for (int c = 0; c < n; c++) {
-                int liveNeighbors = 0;
-
-                // count live neighbors
-                for (int[] d : dirs) {
-                    int nr = r + d[0], nc = c + d[1];
-                    if (nr >= 0 && nr < m && nc >= 0 && nc < n) {
-                        if (Math.abs(board[nr][nc]) == 1) {
-                            liveNeighbors++;
-                        }
-                    }
+              for(int[] dir : directions){
+                int ni = dir[0] + i;   int nj = dir[1] + j;
+                if(ni >= 0 && nj >= 0 && ni < m && nj < n){
+                    if(Math.abs(board[ni][nj]) == 1)
+                    liveNeighbors++;
                 }
+              }
 
-                // Rule applications
-                if (board[r][c] == 1) {
-                    if (liveNeighbors < 2 || liveNeighbors > 3) {
-                        board[r][c] = -1; // live → dead
-                    }
-                } else {
-                    if (liveNeighbors == 3) {
-                        board[r][c] = 2;  // dead → live
-                    }
-                }
+              if(board[i][j] == 1){
+                if(liveNeighbors < 2 || liveNeighbors > 3) board[i][j] = -1;
+              }
+              else {
+                if(liveNeighbors == 3) board[i][j] = 2;
+              }
             }
         }
-
-        // Step 2: Finalize states
-        for (int r = 0; r < m; r++) {
-            for (int c = 0; c < n; c++) {
-                if (board[r][c] > 0) {
-                    board[r][c] = 1;
-                } else {
-                    board[r][c] = 0;
+         for(int i = 0; i < m; i++){
+                for(int j = 0; j < n; j++){
+                    if(board[i][j] > 0) board[i][j] = 1;
+                    else board[i][j] = 0;
                 }
-            }
-        }
+              }
     }
 }
