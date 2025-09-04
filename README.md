@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Sowmika-Arul/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sowmika-Arul/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2722-prime-in-diagonal](https://github.com/Sowmika-Arul/leetcode/tree/master/2722-prime-in-diagonal) |
+| [3830-find-closest-person](https://github.com/Sowmika-Arul/leetcode/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
 | ------- |
