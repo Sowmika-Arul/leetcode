@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Sowmika-Arul/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1829-maximum-units-on-a-truck](https://github.com/Sowmika-Arul/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2089-maximum-matrix-sum](https://github.com/Sowmika-Arul/leetcode/tree/master/2089-maximum-matrix-sum) |
+| [2350-find-closest-number-to-zero](https://github.com/Sowmika-Arul/leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/Sowmika-Arul/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2478-longest-nice-subarray](https://github.com/Sowmika-Arul/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Sowmika-Arul/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
