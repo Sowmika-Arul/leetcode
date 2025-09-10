@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Sowmika-Arul/leetcode/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/Sowmika-Arul/leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Sowmika-Arul/leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Sowmika-Arul/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Sowmika-Arul/leetcode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/Sowmika-Arul/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/Sowmika-Arul/leetcode/tree/master/0289-game-of-life) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Sowmika-Arul/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/Sowmika-Arul/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/Sowmika-Arul/leetcode/tree/master/0731-my-calendar-ii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Sowmika-Arul/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
