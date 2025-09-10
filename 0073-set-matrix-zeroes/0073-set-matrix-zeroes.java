@@ -2,28 +2,18 @@ import java.util.ArrayList;
 
 class Solution {
     public void setZeroes(int[][] matrix) {
-        ArrayList<Integer> rows = new ArrayList<>();
-        ArrayList<Integer> cols = new ArrayList<>();
-
-        for (int i = 0; i < matrix.length; i++) {
-            for (int j = 0; j < matrix[0].length; j++) {
-                if (matrix[i][j] == 0) {
-                    rows.add(i);
-                    cols.add(j);
-                }
+        List<int[]> store = new ArrayList<>();
+        int ind = 0, i, j;
+        for(i =0; i < matrix.length; i++){
+            for(j = 0; j < matrix[0].length; j++){
+                if(matrix[i][j] == 0) store.add(new int[]{i, j});
             }
         }
-
-        for (int r : rows) {
-            for (int j = 0; j < matrix[0].length; j++) {
-                matrix[r][j] = 0;
-            }
-        }
-
-        for (int c : cols) {
-            for (int i = 0; i < matrix.length; i++) {
-                matrix[i][c] = 0;
-            }
+        for(int[] index : store){
+            i = index[0];
+            j = index[1];
+         for(int k = 0; k < matrix.length; k++) matrix[k][j] = 0;
+         for(int l = 0; l < matrix[0].length; l++) matrix[i][l] = 0;
         }
     }
 }
