@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sowmika-Arul/leetcode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Sowmika-Arul/leetcode/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/Sowmika-Arul/leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Sowmika-Arul/leetcode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Sowmika-Arul/leetcode/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/Sowmika-Arul/leetcode/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sowmika-Arul/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Sowmika-Arul/leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Sowmika-Arul/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sowmika-Arul/leetcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Sowmika-Arul/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Sowmika-Arul/leetcode/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Sowmika-Arul/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Sowmika-Arul/leetcode/tree/master/0135-candy) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Sowmika-Arul/leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sowmika-Arul/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Sowmika-Arul/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Sowmika-Arul/leetcode/tree/master/0101-symmetric-tree) |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Sowmika-Arul/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sowmika-Arul/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Sowmika-Arul/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Sowmika-Arul/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Sowmika-Arul/leetcode/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/Sowmika-Arul/leetcode/tree/master/0289-game-of-life) |
 | [1036-rotting-oranges](https://github.com/Sowmika-Arul/leetcode/tree/master/1036-rotting-oranges) |
@@ -452,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Sowmika-Arul/leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Sowmika-Arul/leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Sowmika-Arul/leetcode/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/Sowmika-Arul/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Sowmika-Arul/leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Sowmika-Arul/leetcode/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/Sowmika-Arul/leetcode/tree/master/0494-target-sum) |
