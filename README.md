@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Sowmika-Arul/leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2755-extra-characters-in-a-string](https://github.com/Sowmika-Arul/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Sowmika-Arul/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2887-sort-vowels-in-a-string](https://github.com/Sowmika-Arul/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sowmika-Arul/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Counting
 |  |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-units-on-a-truck](https://github.com/Sowmika-Arul/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Sowmika-Arul/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sowmika-Arul/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2887-sort-vowels-in-a-string](https://github.com/Sowmika-Arul/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Math
 |  |
 | ------- |
