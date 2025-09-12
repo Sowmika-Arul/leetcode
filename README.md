@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Sowmika-Arul/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1252-break-a-palindrome](https://github.com/Sowmika-Arul/leetcode/tree/master/1252-break-a-palindrome) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Sowmika-Arul/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1894-merge-strings-alternately](https://github.com/Sowmika-Arul/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Sowmika-Arul/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Sowmika-Arul/leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2755-extra-characters-in-a-string](https://github.com/Sowmika-Arul/leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Sowmika-Arul/leetcode/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/Sowmika-Arul/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Sowmika-Arul/leetcode/tree/master/0941-sort-array-by-parity) |
+| [1894-merge-strings-alternately](https://github.com/Sowmika-Arul/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sowmika-Arul/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Dynamic Programming
 |  |
