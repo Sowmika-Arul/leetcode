@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sowmika-Arul/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0494-target-sum](https://github.com/Sowmika-Arul/leetcode/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/Sowmika-Arul/leetcode/tree/master/0506-relative-ranks) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Sowmika-Arul/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/Sowmika-Arul/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/Sowmika-Arul/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Sowmika-Arul/leetcode/tree/master/0731-my-calendar-ii) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Sowmika-Arul/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Sowmika-Arul/leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Sowmika-Arul/leetcode/tree/master/0443-string-compression) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Sowmika-Arul/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0908-middle-of-the-linked-list](https://github.com/Sowmika-Arul/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Sowmika-Arul/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1894-merge-strings-alternately](https://github.com/Sowmika-Arul/leetcode/tree/master/1894-merge-strings-alternately) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Sowmika-Arul/leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sowmika-Arul/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Sowmika-Arul/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Sowmika-Arul/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/Sowmika-Arul/leetcode/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sowmika-Arul/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Sowmika-Arul/leetcode/tree/master/1002-maximum-width-ramp) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sowmika-Arul/leetcode/tree/master/0042-trapping-rain-water) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Sowmika-Arul/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/Sowmika-Arul/leetcode/tree/master/0739-daily-temperatures) |
 | [1002-maximum-width-ramp](https://github.com/Sowmika-Arul/leetcode/tree/master/1002-maximum-width-ramp) |
 ## Greedy
@@ -222,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Sowmika-Arul/leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Sowmika-Arul/leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Sowmika-Arul/leetcode/tree/master/0179-largest-number) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Sowmika-Arul/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sowmika-Arul/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1252-break-a-palindrome](https://github.com/Sowmika-Arul/leetcode/tree/master/1252-break-a-palindrome) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Sowmika-Arul/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -241,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/Sowmika-Arul/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0451-sort-characters-by-frequency](https://github.com/Sowmika-Arul/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Sowmika-Arul/leetcode/tree/master/0506-relative-ranks) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Sowmika-Arul/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0941-sort-array-by-parity](https://github.com/Sowmika-Arul/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1256-rank-transform-of-an-array](https://github.com/Sowmika-Arul/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/Sowmika-Arul/leetcode/tree/master/1306-minimum-absolute-difference) |
