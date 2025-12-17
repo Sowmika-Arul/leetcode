@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sowmika-Arul/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Sowmika-Arul/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sowmika-Arul/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Sowmika-Arul/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1256-rank-transform-of-an-array](https://github.com/Sowmika-Arul/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Sowmika-Arul/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1612-avoid-flood-in-the-city](https://github.com/Sowmika-Arul/leetcode/tree/master/1612-avoid-flood-in-the-city) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/Sowmika-Arul/leetcode/tree/master/0859-design-circular-deque) |
 | [0907-koko-eating-bananas](https://github.com/Sowmika-Arul/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/Sowmika-Arul/leetcode/tree/master/0941-sort-array-by-parity) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Sowmika-Arul/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1002-maximum-width-ramp](https://github.com/Sowmika-Arul/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1036-rotting-oranges](https://github.com/Sowmika-Arul/leetcode/tree/master/1036-rotting-oranges) |
 | [1256-rank-transform-of-an-array](https://github.com/Sowmika-Arul/leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Sowmika-Arul/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/Sowmika-Arul/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/Sowmika-Arul/leetcode/tree/master/0731-my-calendar-ii) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Sowmika-Arul/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Sowmika-Arul/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sowmika-Arul/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2358-number-of-ways-to-split-array](https://github.com/Sowmika-Arul/leetcode/tree/master/2358-number-of-ways-to-split-array) |
